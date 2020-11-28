@@ -1,2 +1,2 @@
 # rwang
-[I'm an inline-style link](https://www.google.com)
+[https://ruiyuwangwork.github.io/rwang/](https://ruiyuwangwork.github.io/rwang/)
