@@ -15,11 +15,13 @@ Publications
 At Temple University
 ^^^^^^^^^^^^^^^^^^^^
 
-**Wang, R.**, Klein M., Carnevale V. & Borguet E. (2021) Investigation of water/solid interfaces by molecular dynamic simulations (in preparation)
+**Wang, R.**, Remsing, R. C., Klein, M. L., Borguet, E. & Carnevale, V., On the role of α-alumina in the origin of life: Surface driven assembly of amino acids (2021), in preparation.
 
-**Wang, R.**, Carnevale V., Klein M. & Borguet E. First Principles Calculation of Water pKa Using the Newly Developed SCAN Functional. *J. Phys. Chem. Lett.* **2020**, 11, 54-59. `link <https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b02913>`_
+**Wang, R.**, Klein M., Carnevale V. & Borguet E., Investigation of water/solid interfaces by molecular dynamic simulations.  *Wiley Interdiscip. Rev. Comput. Mol. Sci.* **2021**, e1537. `link <https://doi.org/10.1002/wcms.1537>`_
 
-**Wang, R.**; DelloStritto, M.; Remsing, R. C.; Carnevale, V.; Klein, M. L.; Borguet, E., Sodium Halide Adsorption and Water Structure at the α-Alumina(0001)/Water Interface. *J. Phys. Chem. C* **2019**, 123, 15618-15628. `link <https://doi.org/10.1021/acs.jpcc.9b03054>`_
+**Wang, R.**, Carnevale V., Klein M. & Borguet E., First Principles Calculation of Water pKa Using the Newly Developed SCAN Functional. *J. Phys. Chem. Lett.* **2020**, 11, 54-59. `link <https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b02913>`_
+
+**Wang, R.**, DelloStritto, M., Remsing, R. C., Carnevale, V., Klein, M. L., Borguet, E., Sodium Halide Adsorption and Water Structure at the α-Alumina(0001)/Water Interface. *J. Phys. Chem. C* **2019**, 123, 15618-15628. `link <https://doi.org/10.1021/acs.jpcc.9b03054>`_
 
 At Nankai University 
 ^^^^^^^^^^^^^^^^^^^^
