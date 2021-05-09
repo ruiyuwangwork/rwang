@@ -1,6 +1,8 @@
 Research Projects
 =================
 
+|
+
 On the role of α-alumina in the origin of life: Surface driven assembly of amino acids
 
 .. image:: fig/aa.jpg
