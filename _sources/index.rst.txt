@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Ruiyu wang（王瑞雨）
+Ruiyu Wang（王瑞雨）
 ==========================================
 
 Welcome to Ruiyu's personal webpage.
@@ -18,11 +18,25 @@ ruiyuwang_work@outlook.com (Personal working email)
 Overview
 ---------
 
-I am now a PhD student in Temple University. My supervisors are Dr. `Eric Borguet <https://sites.temple.edu/borguet/>`_ and Dr. `Vincenzo Carnevale <https://carnevalelab.org/>`_. I am doing various types of research projects and they are all about water. I am focusing on water structures in several enviroments, such as chemical reactions in aqueous solutions, ion adsorption at water/alumina interfaces using both classical and ab initio molecular dynamics simulations, especially free energy calculations using enhanced sampling techniques.  
+I am now a Ph.D. student at Temple University in USA. My supervisors are Dr. `Eric Borguet <https://sites.temple.edu/borguet/>`_ and Dr. `Vincenzo Carnevale <https://carnevalelab.org/>`_. I study water in various enviroments, especially water/alumina interfaces, using molecular dynamics simulations.  Below are projects I have investigated in recent years:
 
-Currently, I am carrying out pKa calculations, investigating surface-solute interactions and proton/hydroxide ion behavior. Besides physical chemistry, I am also interested in modern technologies such as machine learning and its applications, especially, how these tools and proper physics models are used in big data and business analysis. 
+- Ion adsorptions at water/alumina interfaces.
 
-`Full CV <cv2020_ruiyu.pdf>`_
+- Free energy calculation of proton transfer in bulk water.
+
+Currently, I am investigating these interesting questions:
+
+- The pattern of amino acid adsorption.
+
+- The topology of hydrogen bonds of interfacial water.
+
+Besides physical chemistry, I am also interested in modern technologies such as machine learning and its applications, especially, how these tools and proper physics models are used in big data and business analysis. 
+
+Before moving to Temple University, I investigated the design and sythesis of molecular imprinted polymers to catalyze the hydrolysis of organophosphate pestides with my supervisor Prof. `Tianying Guo <https://www.researchgate.net/profile/Tianying-Guo>`_.
+
+I plan to graduate in spring 2022 and I am open to job market.
+
+`Full CV <cv2021.pdf>`_
 
 .. toctree::
 
