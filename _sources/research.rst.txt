@@ -3,6 +3,17 @@ Research Projects
 
 |
 
+Investigation of nucleation of NaCl at various environments using machine learning-assisted enhanced sampling molecular dynamics simulations
+
+.. image:: fig/nacl.gif
+   :scale: 25%
+   :class: no-scaled-link
+
+`Paper_1 <https://doi.org/10.1021/acs.jpcb.3c06735>`_
+
+
+|
+
 On the role of α-alumina in the origin of life: Surface driven assembly of amino acids
 
 .. image:: fig/aa.jpg
@@ -13,7 +24,7 @@ On the role of α-alumina in the origin of life: Surface driven assembly of amin
 
 |
 
-Water wetting and sodium halides adsorption at water/α-alumina(0001) interfaces
+Water wetting and ion adsorption at water/soid interfaces
 
 .. image:: fig/jpcc2019.jpeg
    :scale: 25%
@@ -21,6 +32,7 @@ Water wetting and sodium halides adsorption at water/α-alumina(0001) interfaces
 
 `Paper_1 <https://doi.org/10.1021/acs.jpcc.9b03054>`_
 `Paper_2 <https://doi.org/10.1016/j.jcis.2022.07.164>`_
+`Paper_3 <https://doi.org/10.1021/jacs.3c09128>`_
 
 
 
