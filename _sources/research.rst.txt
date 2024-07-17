@@ -9,7 +9,11 @@ Investigation of nucleation of NaCl at various environments using machine learni
    :scale: 25%
    :class: no-scaled-link
 
-`Paper_1 <https://doi.org/10.1021/acs.jpcb.3c06735>`_
+`In melt and bulk water <https://doi.org/10.1021/acs.jpcb.3c06735>`_
+
+`Under nano-confinement <https://arxiv.org/abs/2403.00925>`_
+
+.. `Under external electric field <>`_
 
 
 |
@@ -20,7 +24,7 @@ On the role of α-alumina in the origin of life: Surface driven assembly of amin
    :scale: 25%
    :class: no-scaled-link
 
-`Paper_1 <NA>`_
+.. `Paper_1 <>`_
 
 |
 
@@ -30,11 +34,13 @@ Water wetting and ion adsorption at water/soid interfaces
    :scale: 25%
    :class: no-scaled-link
 
-`Paper_1 <https://doi.org/10.1021/acs.jpcc.9b03054>`_
-`Paper_2 <https://doi.org/10.1016/j.jcis.2022.07.164>`_
-`Paper_3 <https://doi.org/10.1021/jacs.3c09128>`_
+`Ion adsorption <https://doi.org/10.1021/acs.jpcc.9b03054>`_
 
+`Water wetting <https://doi.org/10.1016/j.jcis.2022.07.164>`_
 
+`SHG prediction <https://doi.org/10.1021/jacs.3c09128>`_ (collabrated with experimental teams)
+
+`Interfacial Hbond network <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.014105>`_
 
 |
 
@@ -44,4 +50,5 @@ Calculation of bulk water pKa using the SCAN functional
    :scale: 25%
    :class: no-scaled-link
 
-`Paper_1 <https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b02913>`_
+`Paper <https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b02913>`_
+
