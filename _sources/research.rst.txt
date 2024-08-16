@@ -24,7 +24,7 @@ On the role of α-alumina in the origin of life: Surface driven assembly of amin
    :scale: 25%
    :class: no-scaled-link
 
-.. `Paper_1 <>`_
+`Paper <https://doi.org/10.26434/chemrxiv-2024-qjq83>`_
 
 |
 

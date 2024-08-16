@@ -17,7 +17,10 @@ Publications
 
 At University of Maryland
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-**Wang, R.**; and Tiwary P., Atomic scale insights into NaCl nucleation in nanoconfined environments. Submitted, 2024. `preprint <https://arxiv.org/abs/2403.00925>`_
+
+ **Wang, R.**; and Tiwary P., On the nucleation of NaCl from aqueous solution near charged surfaces, the effects of external electric field. Submitted, 2024. `preprint <>`_
+
+**Wang, R.**; and Tiwary P., Atomic scale insights into NaCl nucleation in nanoconfined environments. *Chem. Sci.*, **2024**, DOI: . `PDF <>`_, `preprint <https://arxiv.org/abs/2403.00925>`_
 
 **Wang, R.**; Zou, Z.; Mehdi S.; and Tiwary P., Is the Local Ion Density Sufficient to Drive NaCl Nucleation from the Melt and Aqueous Solution? *J. Phys. Chem. B* **2024**, DOI: 10.1021/acs.jpcb.3c06735. `PDF <https://doi.org/10.1021/acs.jpcb.3c06735>`_, `preprint <https://doi.org/10.48550/arXiv.2309.09284>`_
 
@@ -25,7 +28,7 @@ At University of Maryland
 At Temple University
 ^^^^^^^^^^^^^^^^^^^^
 
-**Wang, R.**; Remsing, R. C.; Klein, M. L.; Borguet, E.; Carnevale, V., On the role of α-alumina in the origin of life: Surface driven assembly of amino acids. Submitted, 2024.
+**Wang, R.**; Remsing, R. C.; Klein, M. L.; Borguet, E.; Carnevale, V., On the role of α-alumina in the origin of life: Surface driven assembly of amino acids. Submitted, 2024. `preprint <https://doi.org/10.26434/chemrxiv-2024-qjq83>`_
 
 **Wang, R.**; DelloStritto, M.; Klein, M. L.; Borguet, E.; Carnevale, V., Topological properties of interfacial hydrogen bond networks. *Phys. Rev. B* **2024**, DOI: 10.1103/PhysRevB.110.014105. `PDF <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.014105>`_, `preprint <https://doi.org/10.26434/chemrxiv-2024-j4gt7>`_
 
